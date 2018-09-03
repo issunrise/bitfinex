@@ -13,7 +13,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/sunrisedo/bitfinex-api-go/utils"
+	"github.com/issunrise/bitfinex/utils"
 	"golang.org/x/net/proxy"
 )
 
